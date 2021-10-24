@@ -17,7 +17,7 @@ function Contact() {
         </div>
         <div>
           <i className="fas fa-envelope" />
-          rowdyp2@gmail.com,
+           dreamware40@gmail.com
         </div>
         <div>
           <i className="fas fa-phone" />
